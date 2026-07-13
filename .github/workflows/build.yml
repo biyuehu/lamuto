@@ -23,7 +23,9 @@ jobs:
         uses: oven-sh/setup-bun@v2
 
       - name: Build site
-        run: bun run build
+        run: |
+          bun install
+          bun run build
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4

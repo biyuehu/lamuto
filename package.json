@@ -10,14 +10,14 @@
     "check": "svelte-check --tsconfig ./tsconfig.app.json && tsc -p tsconfig.node.json"
   },
   "devDependencies": {
-    "@biomejs/biome": "^1.9.4",
-    "@sveltejs/vite-plugin-svelte": "^5.0.3",
-    "@tsconfig/svelte": "^5.0.4",
-    "@unocss/svelte-scoped": "66.1.0-beta.3",
-    "svelte": "^5.20.2",
-    "svelte-check": "^4.1.4",
-    "typescript": "~5.7.2",
-    "unocss": "66.1.0-beta.3",
-    "vite": "^6.2.0"
+    "@biomejs/biome": "^2.5.3",
+    "@sveltejs/vite-plugin-svelte": "^7.2.0",
+    "@tsconfig/svelte": "^5.0.8",
+    "@unocss/svelte-scoped": "66.7.5",
+    "svelte": "^5.56.4",
+    "svelte-check": "^4.7.2",
+    "typescript": "~7.0.2",
+    "unocss": "66.7.5",
+    "vite": "^8.1.4"
   }
 }

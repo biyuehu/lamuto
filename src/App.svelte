@@ -156,6 +156,7 @@ $: dictionary.subscribe((dict) => {
     <span class="text-teal-400">L</span>a<span class="text-teal-300">m</span
     >u<span class="text-teal-300">t</span>o Dikoshinore
   </div>
+  <div class="mb-6 mx-auto"><a class="text-teal-400 hover:text-teal-500 font-bold" href="/book.html">👉 To learn Lamuto Language 👈</a></div>
   <div class="flex flex-col sm:flex-row gap-4 mb-6">
     <input
       bind:value={searchTerm}

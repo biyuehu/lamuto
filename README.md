@@ -3,7 +3,7 @@
 
 # Lamuto
 
-- **Zo Lamute haim o sinpum konschute-Langergie.**
+- **Zo Lamute o haim sinpum konschute-Langergie.**
 
 - *Lamuto is a high and simple constructed language*
 
@@ -16,6 +16,8 @@
 - *Lamuto ist eine hohe und einfache konstruierte Sprache*
 
 - *拉穆托語是一種高階且結構簡單的語言*
+
+## 👉 [Learn Lamuto](public/book.md)
 
 ## 👉 [Lamuto Dikoshinore](http://lamuto.hotaru.icu/)
 

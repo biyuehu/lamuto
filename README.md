@@ -17,7 +17,7 @@
 
 - *拉穆托語是一種高階且結構簡單的語言*
 
-## 👉 [Learn Lamuto](public/book.md)
+## 👉 [Learn Lamuto](book.md)
 
 ## 👉 [Lamuto Dikoshinore](http://lamuto.hotaru.icu/)
 

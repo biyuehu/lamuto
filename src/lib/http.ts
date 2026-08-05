@@ -19,7 +19,7 @@ export async function loadDictionary(toeknVal?: string): Promise<Word[]> {
   const res = (await request(toeknVal)) as { content: string; download_url: string }
   return JSON.parse(
     res.content
-      ? // biome-ignore lint:
+      ? // biome-ignore lint: *
         new TextDecoder().decode((Uint8Array.from as any)(atob(res.content), (m: any) => m.codePointAt(0)))
       : JSON.stringify(await (await fetch(res.download_url.split('?token=')[0])).json())
   )

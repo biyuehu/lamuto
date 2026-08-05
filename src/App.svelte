@@ -299,7 +299,7 @@ $: dictionary.subscribe((dict) => {
 
   <div class="mt-13 mb-0 text-center text-gray-500">
     <hr class="w-full border-gray-300 mb-6" />
-    Koprete © 2025 bai <a
+    Koprete © 2025 - 2026 bai <a
       class="text-teal-400 no-underline hover:underline"
       href="https://github.com/biyuehu/lamuto"
     >
